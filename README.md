@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hariprasath Samiraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Responsive Site**
+- 🔭 I’m currently working on **Data Analystics**
 
-- 🌱 I’m currently learning **NODE JS & REACT JS**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
-- 💬 Ask me about **JAVASCRIPT , CSS ,HTML**
+- 💬 Ask me about **Python , SQL , POWER BI **
 
-- 📫 How to reach me **hari2842003@gmail.com**
+- 📫 How to reach me **kenps2842003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
